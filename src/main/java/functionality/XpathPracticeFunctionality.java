@@ -14,5 +14,6 @@ public class XpathPracticeFunctionality {
         practicePage = new XpathPracticePage(DriverFactory.getDriver());
         practicePage.openPage();
         practicePage.clickOnTitlePage();
+        practicePage.clickOnTitlePage();
     }
 }
